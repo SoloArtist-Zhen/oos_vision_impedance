@@ -24,6 +24,7 @@ Outputs:
 - 视觉伺服式引导，使目标位于图像中心。
 - 接触时**阻抗控制**，吸收冲击力并稳定到所需的停靠位置。
 - 输出丰富的图表和 GIF 动画（frames/ 目录包含单独的帧）。
-  ![Uploading demo.gif…]()
+![Uploading demo.gif…]()
+
 <img width="1020" height="510" alt="image_error" src="https://github.com/user-attachments/assets/f405fa39-d763-4992-aa0a-bc1fcbd7fe2a" />
 <img width="1020" height="646" alt="traj" src="https://github.com/user-attachments/assets/be245acd-1890-41a2-8533-d04effb13918" />
